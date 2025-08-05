@@ -1,1 +1,1 @@
-# Todo-list
+By using basic concepts of python like lists,loops ect i have created a todo_list which works for functionalities like adding tasks,removing tasks,viewing tasks and displaying weather the task is pending or completed.  
